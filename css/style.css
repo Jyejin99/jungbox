@@ -872,6 +872,7 @@ main .moving-mouse {
   height: 24px;
   position: relative;
   left: 50%;
+  margin-bottom: 5%;
 }
 
 main .moving-mouse img {
